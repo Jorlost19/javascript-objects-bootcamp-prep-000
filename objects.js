@@ -1,6 +1,6 @@
 let playlist= { artistName: 'songTitle' };
 
-funcion updatePlaylist ('playlist', 'artistName', 'songTitle' ) {
+function updatePlaylist ({playlist}, 'Adele', 'Rolling in the Deep' ) {
 playlist[Adele]= 'Rolling in the Deep';
 
 }
